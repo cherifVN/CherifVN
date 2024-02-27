@@ -2,7 +2,7 @@
 - 🔭 Je travaille actuellement sur un traducteur de Visual Novel Ren'Py
 - 🌱 J'apprends actuellement le Javascript
 
-Langages et outils:
+### Langages et outils:
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50px">](https://fr.wikipedia.org/wiki/Python_(langage))
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" />](https://www.renpy.org/)

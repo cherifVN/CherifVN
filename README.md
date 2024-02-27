@@ -18,6 +18,5 @@
 
 ### Comptes
 [<img width="25px"  src="https://static.itch.io/images/itchio-textless-black.svg" /> ](https://cherif59.itch.io/)
-
-[<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" />](https://twitter.com/cherif_59)
+  [<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" />](https://twitter.com/cherif_59)
 

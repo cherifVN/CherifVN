@@ -17,8 +17,8 @@
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />](https://git-scm.com)
 
 ### Statistiques
-[![cherifVN's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cherifVN&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/cherifVN/github-readme-stats#gh-dark-mode-only)
-[![cherifVN's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cherifVN&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/cherifVN/github-readme-stats#gh-light-mode-only)
+[![cherifVN's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cherifVN&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![cherifVN's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cherifVN&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 

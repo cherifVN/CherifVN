@@ -12,9 +12,9 @@
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />](https://www.npmjs.com/)
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original-wordmark.svg" />](https://discord.js.org/)
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />](https://code.visualstudio.com/)
-[<img width="50px"  src="https://static.itch.io/images/itchio-textless-black.svg" /> ](https://itch.io#gh-dark-mode-only)
-[<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />](https://github.com#gh-dark-mode-only)
-[<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />](https://git-scm.com#gh-dark-mode-only)
+[<img width="50px"  src="https://static.itch.io/images/itchio-textless-black.svg" /> ](https://itch.io)
+[<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />](https://github.com)
+[<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />](https://git-scm.com)
 
 
 

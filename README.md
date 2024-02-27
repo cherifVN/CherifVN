@@ -4,7 +4,7 @@
 
 ### Langages et outils:
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50px">](https://fr.wikipedia.org/wiki/Python_(langage))
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50px">](https://www.python.org/)
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" />](https://www.renpy.org/)
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />](https://www.json.org/json-fr.html)
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/fr/docs/Web/JavaScript)

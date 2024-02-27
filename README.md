@@ -2,7 +2,7 @@
 - 🔭 Je travaille actuellement sur un traducteur de Visual Novel Ren'Py
 - 🌱 J'apprends actuellement le Javascript
 
-### Langages et outils:
+### Langages et outils
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50px">](https://www.python.org/)
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" />](https://www.renpy.org/)
@@ -15,6 +15,12 @@
 [<img width="50px"  src="https://static.itch.io/images/itchio-textless-black.svg" /> ](https://itch.io)
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />](https://github.com/)
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />](https://git-scm.com)
+
+### Statistiques
+[![cherifVN's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cherifVN&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/cherifVN/github-readme-stats#gh-dark-mode-only)
+[![cherifVN's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cherifVN&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/cherifVN/github-readme-stats#gh-light-mode-only)
+
+
 
 ### Comptes
 [<img width="25px" src="https://static.itch.io/images/itchio-textless-black.svg" /> ](https://cherif59.itch.io/) &nbsp;&nbsp;&nbsp;

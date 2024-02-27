@@ -14,6 +14,9 @@
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />](https://code.visualstudio.com/)
 [<img width="50px"  src="https://static.itch.io/images/itchio-textless-black.svg" /> ](https://itch.io)
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />](https://github.com)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg#gh-dark-mode-only"/>
+          
+
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />](https://git-scm.com)
 
 

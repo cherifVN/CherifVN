@@ -13,8 +13,9 @@
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original-wordmark.svg" />](https://discord.js.org/)
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />](https://code.visualstudio.com/)
 [<img width="50px"  src="https://static.itch.io/images/itchio-textless-black.svg" /> ](https://itch.io)
-[<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />](https://github.com/)
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />](https://git-scm.com)
+[<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />](https://github.com/)
+
 
 ### Statistiques
 [![cherifVN's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cherifVN&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)

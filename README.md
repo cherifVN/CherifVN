@@ -8,7 +8,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50px">](https://www.python.org/)
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" />](https://www.renpy.org/)
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />](https://www.json.org/json-fr.html)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />](https://www.lua.org/)
+[<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />](https://www.lua.org/)
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />](https://nodejs.org/en/download/)
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />](https://www.npmjs.com/)

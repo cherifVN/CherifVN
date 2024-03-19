@@ -1,7 +1,7 @@
 ### A propos de moi👋
 - Développeur Python
 - 🔭 Je travaille actuellement sur un [traducteur de Visual Novel Ren'Py](https://github.com/cherifVN/Ren-Py-Novel-Translation)
-- 🌱 J'apprends actuellement le Javascript
+- 🌱 J'apprends actuellement le Ruby, Javascript
 
 ### Mes langages et outils
 

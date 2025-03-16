@@ -5,7 +5,7 @@
 
 ### Mes langages et outils
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50px">](https://www.python.org/)
+[<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />](https://www.python.org/)
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" />](https://www.renpy.org/)
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />](https://www.json.org/json-fr.html)
 [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />](https://www.lua.org/)

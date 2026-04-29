@@ -1,29 +1,59 @@
-### A propos de moi👋
-- Développeur Python
-- 🔭 Je travaille actuellement sur un [traducteur de Visual Novel Ren'Py](https://github.com/cherifVN/Ren-Py-Novel-Translation)
-- 🌱 J'apprends actuellement le C
+# Welcome to my GitHub / Bienvenue sur mon GitHub 👋
 
-### Mes langages et outils
+<details open>
+  <summary>🇫🇷 <b>Français</b></summary>
 
-[<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />](https://www.python.org/)
-[<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" />](https://www.renpy.org/)
-[<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />](https://www.json.org/json-fr.html)
-[<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />](https://www.lua.org/)
-[<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />](https://code.visualstudio.com/)
-[<img width="50px"  src="https://static.itch.io/images/itchio-textless-black.svg" /> ](https://itch.io)
-[<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />](https://git-scm.com)
-[<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />](https://github.com/)
+  ### À propos de moi
+  Je suis un développeur passionné par l'écosystème **Visual Novel**, le modding et l'automatisation de tâches sous Linux et Windows.
 
+  - 🔭 **Projet actuel :** Traducteur de Visual Novel Ren'py
+  - 🌱 **Apprentissage :** Bash
+  - 🐧 **OS :** Linux, Android
 
-### Statistiques
-[![cherifVN's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cherifVN&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![cherifVN's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cherifVN&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  ### 💻 Technologies & Outils
+  | Catégorie | Outils |
+  | :--- | :--- |
+  | **Langages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+  | **Spécialité** | ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge) ![Lua](https://img.shields.io/badge/lua-%23000080.svg?style=for-the-badge&logo=lua&logoColor=white) |
+  | **Outils** | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23fa5c5c.svg?style=for-the-badge&logo=itchdotio&logoColor=white) |
 
+  ### 📊 Statistiques
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=cherifVN&show_icons=true&theme=dark" alt="Stats de Cherif" />
+  </p>
 
+  ### 🔗 Liens
+  <p align="left">
+    <a href="https://www.youtube.com/@cherif5955"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+    <a href="https://cherif59.itch.io/"><img src="https://static.itch.io/images/itchio-textless-black.svg" height="30" width="40" /></a>
+  </p>
+</details>
 
-### Comptes
-[<img width="25px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/YouTube_23392.png" />](https://www.youtube.com/@cherif5955) &nbsp;&nbsp;&nbsp;
-[<img width="25px" src="https://static.itch.io/images/itchio-textless-black.svg" /> ](https://cherif59.itch.io/) &nbsp;&nbsp;&nbsp;
-[<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" />](https://twitter.com/cherif_59)
+<details>
+  <summary>🇺🇸 <b>English</b></summary>
 
+  ### About Me
+  I am a developer passionate about the **Visual Novel** ecosystem, modding, and task automation on Linux and Windows.
 
+  - 🔭 **Current Project:** Ren'py Visual Novel Translator
+  - 🌱 **Learning:** Bash
+  - 🐧 **OS:** Linux, Android
+
+  ### 💻 Technologies & Tools
+  | Category | Tools |
+  | :--- | :--- |
+  | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+  | **Specialty** | ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge) ![Lua](https://img.shields.io/badge/lua-%23000080.svg?style=for-the-badge&logo=lua&logoColor=white) |
+  | **Tools** | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23fa5c5c.svg?style=for-the-badge&logo=itchdotio&logoColor=white) |
+
+  ### 📊 Statistics
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=cherifVN&show_icons=true&theme=dark" alt="Cherif's Stats" />
+  </p>
+
+  ### 🔗 Links
+  <p align="left">
+    <a href="https://www.youtube.com/@cherif5955"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+    <a href="https://cherif59.itch.io/"><img src="https://static.itch.io/images/itchio-textless-black.svg" height="30" width="40" /></a>
+  </p>
+</details>

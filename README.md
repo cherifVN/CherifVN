@@ -1,6 +1,6 @@
 # Welcome to my GitHub / Bienvenue sur mon GitHub 👋
 
-<details open>
+<details >
   <summary>🇫🇷 <b>Français</b></summary>
 
   ### À propos de moi

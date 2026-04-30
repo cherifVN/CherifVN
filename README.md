@@ -1,6 +1,6 @@
 # Welcome to my GitHub / Bienvenue sur mon GitHub 👋
 
-<details >
+<details>
   <summary>🇫🇷 <b>Français</b></summary>
 
   ### À propos de moi
@@ -13,8 +13,7 @@
   ### 💻 Technologies & Outils
   | Catégorie | Outils |
   | :--- | :--- |
-  | **Langages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-  | **Spécialité** | ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge) ![Lua](https://img.shields.io/badge/lua-%23000080.svg?style=for-the-badge&logo=lua&logoColor=white) |
+  | **Principal** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge) |
   | **Outils** | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23fa5c5c.svg?style=for-the-badge&logo=itchdotio&logoColor=white) |
 
   ### 📊 Statistiques
@@ -42,8 +41,7 @@
   ### 💻 Technologies & Tools
   | Category | Tools |
   | :--- | :--- |
-  | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-  | **Specialty** | ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge) ![Lua](https://img.shields.io/badge/lua-%23000080.svg?style=for-the-badge&logo=lua&logoColor=white) |
+  | **Main** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge) |
   | **Tools** | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23fa5c5c.svg?style=for-the-badge&logo=itchdotio&logoColor=white) |
 
   ### 📊 Statistics
